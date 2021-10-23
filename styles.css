@@ -140,7 +140,7 @@ font-family: "Roboto",Sans-Serif;
   background: linear-gradient(90deg, rgba(0,0,0,0.43)40.45%, rgba(0,0,0,0)100%);
 }
 .slide-summer{
-    background-image:url("summer.png");
+    background-image:url("https://raw.githubusercontent.com/Alexey994/index.eda/main/summer.png");
     background-repeat:no-repeat;
     background-size: cover;
 
